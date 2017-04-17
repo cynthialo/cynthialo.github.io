@@ -8,7 +8,7 @@ I can be reached on social media:
 
 # Then ...
 
-From 2007-2017, I was a faculty member in Energy, Environemntal & Chemical Engineering at [Washington University](http://www.wustl.edu) in St. Louis, Missouri.  My [research group](http://caml.engineering.wustl.edu) focused on applying data science and quantum chemistry to engineering problems in catalysis, electronic materials, and biological photosynthesis.
+From 2007-2017, I was a faculty member in Energy, Environmental & Chemical Engineering at [Washington University](http://www.wustl.edu) in St. Louis, Missouri.  My [research group](research.md) focused on applying data science and quantum chemistry to engineering problems in catalysis, electronic materials, and biological photosynthesis.
 
 Before that, I was a Postdoctoral Research Associate in the Physical and Chemical Properties Division at the [National Institute of Standards and Technology](http://www.nist.gov) in Gaithersburg, Maryland ([research](https://www.nist.gov/mml/csd/chemical-informatics-research-group) [group](http://chem.uaf.edu/trainor/)).  
 
