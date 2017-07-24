@@ -1,12 +1,10 @@
-# A journey of a thousand miles ...
+# Hello, world!
 
 I am an R&D Quantitative Analyst in Global Data Insight & Analytics at [Ford Motor Company](http://www.ford.com) in Dearborn, Michigan.  My colleagues and I in Analytics R&D are "Responsible for developing new data sources and analytic methods".  Specifically, I am applying statistics, optimization, and machine learning for prescriptive analytics in economics, finance, and marketing.
 
 I can be reached on social media:
 * LinkedIn: <https://www.linkedin.com/in/cynthialo>
 * Twitter: [@cynthialo](https://twitter.com/cynthialo)
-
-# ... begins with a single step. 
 
 From 2007-2017, I was a faculty member in Energy, Environmental & Chemical Engineering at [Washington University](http://www.wustl.edu) in St. Louis, Missouri.  My [research group](research.md) focused on applying data science and quantum chemistry to engineering problems in catalysis, electronic materials, and biological photosynthesis.
 
