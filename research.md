@@ -16,7 +16,7 @@ Another recent method development was a machine learning application to perform 
 
 ## Publications
 
-I'm keeping a (mostly) up-to-date list of my [peer-reviewed publications on ORCID](http://orcid.org/0000-0003-2873-4869).
+I a keeping a (mostly) up-to-date list of my [peer-reviewed publications on ORCID](http://orcid.org/0000-0003-2873-4869).
 
 ## Student outcomes
 
