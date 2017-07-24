@@ -16,7 +16,7 @@ Another recent method development was a machine learning application to perform 
 
 ## Publications
 
-A (mostly) up-to-date list of peer-reviewed publications can be found on [ORCID](http://orcid.org/0000-0003-2873-4869).
+I'm keeping a (mostly) up-to-date list of my [peer-reviewed publications on ORCID](http://orcid.org/0000-0003-2873-4869).
 
 ## Student outcomes
 
@@ -27,3 +27,5 @@ My (now former) graduate and undergraduate students pursued a variety of [career
 My Ph.D. and Postdoctoral training were instrumental in developing my interest and expertise in energy and environmental technologies.  For my Ph.D. dissertation, I used Density Functional Theory calculations and *ab initio* molecular dynamics simulations to investigate the catalytic conversion of methanol to gasoline and olefins.  I showed computationally how porous solid-acid catalysts, such as the zeolites commonly used in industry, promote this reaction.  One of my key findings was that zeolite catalysts, with controlled composition and morphology, confine the reacting molecules in a small physical space and dynamically donate protons to activate the methanol molecules.  By being one of the first researchers to integrate transition path methods with *ab initio* approaches, I demonstrated the importance of including entropic effects in the modeling of complex processes in non-biological systems.
 
 For my Postdoctoral training, I investigated environmental mineral-water interactions and developed a protocol for accurately calculating the structure of hydrated and hydroxylated iron oxide surfaces under environmentally-relevant conditions.  The motivation for this highly-interdisciplinary work was to use surface science and environmental catalysis techniques to better understand how natural waters, natural organic matter, and biological organisms interact with natural solids and environmental contaminants.  One of my key findings was that the experimentally-determined mineral-water interface does not merely consist of adsorbed and heterolytically dissociated waters at undercoordinated surface sites, but also appears to be "missing" metal cations that have been reduced and consequently partition from the solid to the (free) aqueous phase during these environmental reactions.  I showed that quantum mechanics could accurately predict the structure and properties of complex environmental interfaces, and established protocols for calculating the stability of such interfaces using *ab initio* thermodynamics.
+
+[(go back to the home page)](index.md)
