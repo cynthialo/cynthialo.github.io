@@ -10,6 +10,15 @@ body {
 a {
   color:#003262;
 }
+td {
+  border-bottom:1px solid #cwc0bf;
+  border-right: 1px solid #fdb515;
+
+  &:first-child {
+    border-left: 1px solid #fdb515;
+  }
+
+}
 header {
   background: #3b7ea1;
   
