@@ -2,10 +2,25 @@
 ---
 
 @import "{{ site.theme }}";
-$color-brand: #3b7ea1;
-$color-brand-accent: #fdb515;
-$color-link: #003262;
-$color-header-heading: #ddd5c7;
-$color-border: #8a8b8c;
-$color-background: #c2c0bf;
-$serif: 'Noto', "Helvetica Neue", Helvetica, Arial, sans-serif;
+body {
+  font:14px/22px 'Noto Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color:#666;
+  background: url(../images/body-background.png) #c2c0bf;
+}
+a {
+  color:#003262;
+}
+header {
+  background: url(../images/background.png) #3b7ea1;
+  
+  h1 {
+    font: 40px/48px 'Noto Serif', "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #ddd5c7;
+  }
+  
+}
+#banner {
+  background: #fdb515;
+  border: 1px solid #8a8b8c;
+}
+
