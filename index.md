@@ -1,6 +1,10 @@
 # Hello, world!
 
-I am an R&D Quantitative Analyst in Global Data Insight & Analytics at [Ford Motor Company](http://www.ford.com) in Dearborn, Michigan.  My colleagues and I in Analytics R&D are "Responsible for developing new data sources and analytic methods".  Specifically, I am applying statistics, optimization, and machine learning for prescriptive analytics in economics, finance, and marketing.
+I am passionate about helping people use big data to unlock insights and create value in business processes. My research training in the physical sciences and engineering, and work experience spanning industry, academia, and government, have enabled me to craft and hone a versatile approach, grounded in first principles, to solve problems across a variety of domains and foster cross-functional engagement.
+
+Most recently, I have been researching and developing econometric and machine learning techniques for algorithmic marketing, specifically in optimizing go-to-market pricing and audience promotion to drive enterprise fitness in the automotive industry at Ford Motor Company. Previously, I applied many of the same statistical tools to study chemical processes in the energy and environmental sectors.
+
+I count among my greatest joys the privilege to counsel and mentor others, whether they be colleagues at work, students at school, or members of the community. My skills-based volunteer experiences include math and science tutoring, technological solution development, and income tax preparation. My other hobbies include cooking, music, sports, and travel. 
 
 I can be reached on social media:
 * LinkedIn: <https://www.linkedin.com/in/cynthialo>
